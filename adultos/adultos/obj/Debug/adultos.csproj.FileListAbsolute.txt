@@ -1,0 +1,137 @@
+C:\Users\My Notebook\source\repos\adultos\adultos\bin\Debug\adultos.pdb
+C:\Users\My Notebook\source\repos\adultos\adultos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\My Notebook\source\repos\adultos\adultos\obj\Debug\adultos.csprojAssemblyReference.cache
+C:\Users\My Notebook\source\repos\adultos\adultos\obj\Debug\adultos.carbohidratos.resources
+C:\Users\My Notebook\source\repos\adultos\adultos\obj\Debug\adultos.Form1.resources
+C:\Users\My Notebook\source\repos\adultos\adultos\obj\Debug\adultos.Frutas.resources
+C:\Users\My Notebook\source\repos\adultos\adultos\obj\Debug\adultos.lacteos.resources
+C:\Users\My Notebook\source\repos\adultos\adultos\obj\Debug\adultos.Properties.Resources.resources
+C:\Users\My Notebook\source\repos\adultos\adultos\obj\Debug\adultos.proteina.resources
+C:\Users\My Notebook\source\repos\adultos\adultos\obj\Debug\adultos.vegetales.resources
+C:\Users\My Notebook\source\repos\adultos\adultos\obj\Debug\adultos.csproj.GenerateResource.cache
+C:\Users\My Notebook\source\repos\adultos\adultos\obj\Debug\adultos.csproj.CoreCompileInputs.cache
+C:\Users\My Notebook\source\repos\adultos\adultos\obj\Debug\adultos.csproj.CopyComplete
+C:\Users\My Notebook\source\repos\adultos\adultos\obj\Debug\adultos.pdb
+C:\Users\My Notebook\source\repos\adultos\adultos\bin\Debug\adultos.dll.config
+C:\Users\My Notebook\source\repos\adultos\adultos\bin\Debug\adultos.dll
+C:\Users\My Notebook\source\repos\adultos\adultos\obj\Debug\adultos.dll
+C:\Users\USUARIO\Downloads\tabla\app\adultos\adultos\bin\Debug\adultos.dll.config
+C:\Users\USUARIO\Downloads\tabla\app\adultos\adultos\bin\Debug\adultos.dll
+C:\Users\USUARIO\Downloads\tabla\app\adultos\adultos\bin\Debug\adultos.pdb
+C:\Users\USUARIO\Downloads\tabla\app\adultos\adultos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USUARIO\Downloads\tabla\app\adultos\adultos\obj\Debug\adultos.csprojAssemblyReference.cache
+C:\Users\USUARIO\Downloads\tabla\app\adultos\adultos\obj\Debug\adultos.carbohidratos.resources
+C:\Users\USUARIO\Downloads\tabla\app\adultos\adultos\obj\Debug\adultos.Form1.resources
+C:\Users\USUARIO\Downloads\tabla\app\adultos\adultos\obj\Debug\adultos.Frutas.resources
+C:\Users\USUARIO\Downloads\tabla\app\adultos\adultos\obj\Debug\adultos.lacteos.resources
+C:\Users\USUARIO\Downloads\tabla\app\adultos\adultos\obj\Debug\adultos.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\tabla\app\adultos\adultos\obj\Debug\adultos.proteina.resources
+C:\Users\USUARIO\Downloads\tabla\app\adultos\adultos\obj\Debug\adultos.vegetales.resources
+C:\Users\USUARIO\Downloads\tabla\app\adultos\adultos\obj\Debug\adultos.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\tabla\app\adultos\adultos\obj\Debug\adultos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\tabla\app\adultos\adultos\obj\Debug\adultos.csproj.CopyComplete
+C:\Users\USUARIO\Downloads\tabla\app\adultos\adultos\obj\Debug\adultos.dll
+C:\Users\USUARIO\Downloads\tabla\app\adultos\adultos\obj\Debug\adultos.pdb
+C:\Users\Pily R\Downloads\app (1)\app\adultos\adultos\bin\Debug\adultos.dll.config
+C:\Users\Pily R\Downloads\app (1)\app\adultos\adultos\bin\Debug\adultos.dll
+C:\Users\Pily R\Downloads\app (1)\app\adultos\adultos\bin\Debug\adultos.pdb
+C:\Users\Pily R\Downloads\app (1)\app\adultos\adultos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Pily R\Downloads\app (1)\app\adultos\adultos\obj\Debug\adultos.csprojAssemblyReference.cache
+C:\Users\Pily R\Downloads\app (1)\app\adultos\adultos\obj\Debug\adultos.carbohidratos.resources
+C:\Users\Pily R\Downloads\app (1)\app\adultos\adultos\obj\Debug\adultos.Form1.resources
+C:\Users\Pily R\Downloads\app (1)\app\adultos\adultos\obj\Debug\adultos.Frutas.resources
+C:\Users\Pily R\Downloads\app (1)\app\adultos\adultos\obj\Debug\adultos.lacteos.resources
+C:\Users\Pily R\Downloads\app (1)\app\adultos\adultos\obj\Debug\adultos.Properties.Resources.resources
+C:\Users\Pily R\Downloads\app (1)\app\adultos\adultos\obj\Debug\adultos.proteina.resources
+C:\Users\Pily R\Downloads\app (1)\app\adultos\adultos\obj\Debug\adultos.vegetales.resources
+C:\Users\Pily R\Downloads\app (1)\app\adultos\adultos\obj\Debug\adultos.csproj.GenerateResource.cache
+C:\Users\Pily R\Downloads\app (1)\app\adultos\adultos\obj\Debug\adultos.csproj.CoreCompileInputs.cache
+C:\Users\Pily R\Downloads\app (1)\app\adultos\adultos\obj\Debug\adultos.csproj.CopyComplete
+C:\Users\Pily R\Downloads\app (1)\app\adultos\adultos\obj\Debug\adultos.dll
+C:\Users\Pily R\Downloads\app (1)\app\adultos\adultos\obj\Debug\adultos.pdb
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\adultos\adultos\bin\Debug\adultos.dll.config
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\adultos\adultos\bin\Debug\adultos.dll
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\adultos\adultos\bin\Debug\adultos.pdb
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\adultos\adultos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\adultos\adultos\obj\Debug\adultos.csprojAssemblyReference.cache
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\adultos\adultos\obj\Debug\adultos.carbohidratos.resources
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\adultos\adultos\obj\Debug\adultos.Form1.resources
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\adultos\adultos\obj\Debug\adultos.Frutas.resources
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\adultos\adultos\obj\Debug\adultos.lacteos.resources
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\adultos\adultos\obj\Debug\adultos.Properties.Resources.resources
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\adultos\adultos\obj\Debug\adultos.proteina.resources
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\adultos\adultos\obj\Debug\adultos.vegetales.resources
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\adultos\adultos\obj\Debug\adultos.csproj.GenerateResource.cache
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\adultos\adultos\obj\Debug\adultos.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\adultos\adultos\obj\Debug\adultos.csproj.CopyComplete
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\adultos\adultos\obj\Debug\adultos.dll
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\adultos\adultos\obj\Debug\adultos.pdb
+C:\Users\USUARIO\Downloads\app\adultos\adultos\bin\Debug\adultos.dll.config
+C:\Users\USUARIO\Downloads\app\adultos\adultos\bin\Debug\adultos.dll
+C:\Users\USUARIO\Downloads\app\adultos\adultos\bin\Debug\adultos.pdb
+C:\Users\USUARIO\Downloads\app\adultos\adultos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USUARIO\Downloads\app\adultos\adultos\obj\Debug\adultos.carbohidratos.resources
+C:\Users\USUARIO\Downloads\app\adultos\adultos\obj\Debug\adultos.Form1.resources
+C:\Users\USUARIO\Downloads\app\adultos\adultos\obj\Debug\adultos.Frutas.resources
+C:\Users\USUARIO\Downloads\app\adultos\adultos\obj\Debug\adultos.lacteos.resources
+C:\Users\USUARIO\Downloads\app\adultos\adultos\obj\Debug\adultos.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\app\adultos\adultos\obj\Debug\adultos.proteina.resources
+C:\Users\USUARIO\Downloads\app\adultos\adultos\obj\Debug\adultos.vegetales.resources
+C:\Users\USUARIO\Downloads\app\adultos\adultos\obj\Debug\adultos.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\app\adultos\adultos\obj\Debug\adultos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\app\adultos\adultos\obj\Debug\adultos.csproj.CopyComplete
+C:\Users\USUARIO\Downloads\app\adultos\adultos\obj\Debug\adultos.dll
+C:\Users\USUARIO\Downloads\app\adultos\adultos\obj\Debug\adultos.pdb
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\adultos\adultos\bin\Debug\adultos.dll.config
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\adultos\adultos\bin\Debug\adultos.dll
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\adultos\adultos\bin\Debug\adultos.pdb
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\adultos\adultos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\adultos\adultos\bin\Debug\Guna.UI.dll
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\adultos\adultos\obj\Debug\adultos.csprojAssemblyReference.cache
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\adultos\adultos\obj\Debug\adultos.carbohidratos.resources
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\adultos\adultos\obj\Debug\adultos.Form1.resources
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\adultos\adultos\obj\Debug\adultos.Frutas.resources
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\adultos\adultos\obj\Debug\adultos.lacteos.resources
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\adultos\adultos\obj\Debug\adultos.Properties.Resources.resources
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\adultos\adultos\obj\Debug\adultos.proteina.resources
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\adultos\adultos\obj\Debug\adultos.vegetales.resources
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\adultos\adultos\obj\Debug\adultos.csproj.GenerateResource.cache
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\adultos\adultos\obj\Debug\adultos.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\adultos\adultos\obj\Debug\adultos.csproj.CopyComplete
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\adultos\adultos\obj\Debug\adultos.dll
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\adultos\adultos\obj\Debug\adultos.pdb
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\adultos\adultos\bin\Debug\adultos.dll.config
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\adultos\adultos\bin\Debug\adultos.dll
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\adultos\adultos\bin\Debug\adultos.pdb
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\adultos\adultos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\adultos\adultos\obj\Debug\adultos.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\adultos\adultos\obj\Debug\adultos.carbohidratos.resources
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\adultos\adultos\obj\Debug\adultos.Form1.resources
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\adultos\adultos\obj\Debug\adultos.Frutas.resources
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\adultos\adultos\obj\Debug\adultos.lacteos.resources
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\adultos\adultos\obj\Debug\adultos.Properties.Resources.resources
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\adultos\adultos\obj\Debug\adultos.proteina.resources
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\adultos\adultos\obj\Debug\adultos.vegetales.resources
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\adultos\adultos\obj\Debug\adultos.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\adultos\adultos\obj\Debug\adultos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\adultos\adultos\obj\Debug\adultos.csproj.CopyComplete
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\adultos\adultos\obj\Debug\adultos.dll
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\adultos\adultos\obj\Debug\adultos.pdb
+C:\Users\USUARIO\Downloads\app\adultos\adultos\obj\Debug\adultos.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\adultos\adultos\bin\Debug\adultos.dll.config
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\adultos\adultos\bin\Debug\adultos.dll
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\adultos\adultos\bin\Debug\adultos.pdb
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\adultos\adultos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\adultos\adultos\obj\Debug\adultos.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\adultos\adultos\obj\Debug\adultos.carbohidratos.resources
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\adultos\adultos\obj\Debug\adultos.Form1.resources
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\adultos\adultos\obj\Debug\adultos.Frutas.resources
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\adultos\adultos\obj\Debug\adultos.lacteos.resources
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\adultos\adultos\obj\Debug\adultos.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\adultos\adultos\obj\Debug\adultos.proteina.resources
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\adultos\adultos\obj\Debug\adultos.vegetales.resources
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\adultos\adultos\obj\Debug\adultos.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\adultos\adultos\obj\Debug\adultos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\adultos\adultos\obj\Debug\adultos.csproj.CopyComplete
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\adultos\adultos\obj\Debug\adultos.dll
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\adultos\adultos\obj\Debug\adultos.pdb

@@ -1,0 +1,15 @@
+C:\Users\USUARIO\source\repos\WfNinios\WfNinios\bin\Debug\WfNinios.exe.config
+C:\Users\USUARIO\source\repos\WfNinios\WfNinios\bin\Debug\WfNinios.exe
+C:\Users\USUARIO\source\repos\WfNinios\WfNinios\bin\Debug\WfNinios.pdb
+C:\Users\USUARIO\source\repos\WfNinios\WfNinios\obj\Debug\WfNinios.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\WfNinios\WfNinios\obj\Debug\WfNinios.carboidratos.resources
+C:\Users\USUARIO\source\repos\WfNinios\WfNinios\obj\Debug\WfNinios.lacteos.resources
+C:\Users\USUARIO\source\repos\WfNinios\WfNinios\obj\Debug\WfNinios.FormNinios.resources
+C:\Users\USUARIO\source\repos\WfNinios\WfNinios\obj\Debug\WfNinios.frutas.resources
+C:\Users\USUARIO\source\repos\WfNinios\WfNinios\obj\Debug\WfNinios.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\WfNinios\WfNinios\obj\Debug\WfNinios.Proteinas.resources
+C:\Users\USUARIO\source\repos\WfNinios\WfNinios\obj\Debug\WfNinios.verduras.resources
+C:\Users\USUARIO\source\repos\WfNinios\WfNinios\obj\Debug\WfNinios.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\WfNinios\WfNinios\obj\Debug\WfNinios.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\WfNinios\WfNinios\obj\Debug\WfNinios.exe
+C:\Users\USUARIO\source\repos\WfNinios\WfNinios\obj\Debug\WfNinios.pdb

@@ -1,0 +1,442 @@
+C:\Users\My Notebook\source\repos\APPTabla\APPTabla\bin\Debug\APPTabla.exe.config
+C:\Users\My Notebook\source\repos\APPTabla\APPTabla\bin\Debug\APPTabla.exe
+C:\Users\My Notebook\source\repos\APPTabla\APPTabla\bin\Debug\APPTabla.pdb
+C:\Users\My Notebook\source\repos\APPTabla\APPTabla\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\My Notebook\source\repos\APPTabla\APPTabla\obj\Debug\APPTabla.csprojAssemblyReference.cache
+C:\Users\My Notebook\source\repos\APPTabla\APPTabla\obj\Debug\APPTabla.Form1.resources
+C:\Users\My Notebook\source\repos\APPTabla\APPTabla\obj\Debug\APPTabla.Properties.Resources.resources
+C:\Users\My Notebook\source\repos\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.GenerateResource.cache
+C:\Users\My Notebook\source\repos\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CoreCompileInputs.cache
+C:\Users\My Notebook\source\repos\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CopyComplete
+C:\Users\My Notebook\source\repos\APPTabla\APPTabla\obj\Debug\APPTabla.exe
+C:\Users\My Notebook\source\repos\APPTabla\APPTabla\obj\Debug\APPTabla.pdb
+C:\Users\My Notebook\source\repos\APPTabla\APPTabla\bin\Debug\adultos.dll
+C:\Users\My Notebook\source\repos\APPTabla\APPTabla\bin\Debug\adultos.pdb
+C:\Users\My Notebook\source\repos\APPTabla\APPTabla\bin\Debug\adultos.dll.config
+C:\Users\My Notebook\source\repos\APPTabla\APPTabla\obj\Debug\APPTabla.guardarpersona.resources
+C:\Users\My Notebook\source\repos\APPTabla\APPTabla\obj\Debug\APPTabla.Buscar.resources
+C:\Users\My Notebook\source\repos\APPTabla\APPTabla\obj\Debug\APPTabla.recomendacion.resources
+C:\Users\My Notebook\source\repos\APPTabla\APPTabla\obj\Debug\APPTabla.modificar_usuarios.resources
+C:\Users\My Notebook\source\repos\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEstado.resources
+C:\Users\My Notebook\source\repos\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEdad.resources
+C:\Users\USUARIO\Downloads\tabla\app\APPTabla\APPTabla\bin\Debug\APPTabla.exe.config
+C:\Users\USUARIO\Downloads\tabla\app\APPTabla\APPTabla\bin\Debug\APPTabla.exe
+C:\Users\USUARIO\Downloads\tabla\app\APPTabla\APPTabla\bin\Debug\APPTabla.pdb
+C:\Users\USUARIO\Downloads\tabla\app\APPTabla\APPTabla\bin\Debug\adultos.dll
+C:\Users\USUARIO\Downloads\tabla\app\APPTabla\APPTabla\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USUARIO\Downloads\tabla\app\APPTabla\APPTabla\bin\Debug\adultos.pdb
+C:\Users\USUARIO\Downloads\tabla\app\APPTabla\APPTabla\bin\Debug\adultos.dll.config
+C:\Users\USUARIO\Downloads\tabla\app\APPTabla\APPTabla\obj\Debug\APPTabla.csprojAssemblyReference.cache
+C:\Users\USUARIO\Downloads\tabla\app\APPTabla\APPTabla\obj\Debug\APPTabla.Buscar.resources
+C:\Users\USUARIO\Downloads\tabla\app\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEdad.resources
+C:\Users\USUARIO\Downloads\tabla\app\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEstado.resources
+C:\Users\USUARIO\Downloads\tabla\app\APPTabla\APPTabla\obj\Debug\APPTabla.Form1.resources
+C:\Users\USUARIO\Downloads\tabla\app\APPTabla\APPTabla\obj\Debug\APPTabla.guardarpersona.resources
+C:\Users\USUARIO\Downloads\tabla\app\APPTabla\APPTabla\obj\Debug\APPTabla.modificar_usuarios.resources
+C:\Users\USUARIO\Downloads\tabla\app\APPTabla\APPTabla\obj\Debug\APPTabla.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\tabla\app\APPTabla\APPTabla\obj\Debug\APPTabla.recomendacion.resources
+C:\Users\USUARIO\Downloads\tabla\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\tabla\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\tabla\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CopyComplete
+C:\Users\USUARIO\Downloads\tabla\app\APPTabla\APPTabla\obj\Debug\APPTabla.exe
+C:\Users\USUARIO\Downloads\tabla\app\APPTabla\APPTabla\obj\Debug\APPTabla.pdb
+C:\Users\USUARIO\Downloads\tabla\app\APPTabla\APPTabla\bin\Debug\WfNinios.exe
+C:\Users\USUARIO\Downloads\tabla\app\APPTabla\APPTabla\bin\Debug\WfNinios.pdb
+C:\Users\USUARIO\Downloads\tabla\app\APPTabla\APPTabla\bin\Debug\WfNinios.exe.config
+C:\Users\Pily R\Downloads\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.csprojAssemblyReference.cache
+C:\Users\Pily R\Downloads\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.Buscar.resources
+C:\Users\Pily R\Downloads\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEdad.resources
+C:\Users\Pily R\Downloads\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEstado.resources
+C:\Users\Pily R\Downloads\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.Form1.resources
+C:\Users\Pily R\Downloads\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.guardarpersona.resources
+C:\Users\Pily R\Downloads\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.modificar_usuarios.resources
+C:\Users\Pily R\Downloads\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.Properties.Resources.resources
+C:\Users\Pily R\Downloads\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.recomendacion.resources
+C:\Users\Pily R\Downloads\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.GenerateResource.cache
+C:\Users\Pily R\Downloads\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CoreCompileInputs.cache
+C:\Users\Pily R\Downloads\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.exe
+C:\Users\Pily R\Downloads\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.pdb
+C:\Users\Pily R\Downloads\app (1)\app\APPTabla\APPTabla\bin\Debug\APPTabla.exe.config
+C:\Users\Pily R\Downloads\app (1)\app\APPTabla\APPTabla\bin\Debug\APPTabla.exe
+C:\Users\Pily R\Downloads\app (1)\app\APPTabla\APPTabla\bin\Debug\APPTabla.pdb
+C:\Users\Pily R\Downloads\app (1)\app\APPTabla\APPTabla\bin\Debug\adultos.dll
+C:\Users\Pily R\Downloads\app (1)\app\APPTabla\APPTabla\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Pily R\Downloads\app (1)\app\APPTabla\APPTabla\bin\Debug\WfNinios.exe
+C:\Users\Pily R\Downloads\app (1)\app\APPTabla\APPTabla\bin\Debug\WfNinios.pdb
+C:\Users\Pily R\Downloads\app (1)\app\APPTabla\APPTabla\bin\Debug\WfNinios.exe.config
+C:\Users\Pily R\Downloads\app (1)\app\APPTabla\APPTabla\bin\Debug\adultos.pdb
+C:\Users\Pily R\Downloads\app (1)\app\APPTabla\APPTabla\bin\Debug\adultos.dll.config
+C:\Users\Pily R\Downloads\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CopyComplete
+C:\Users\Pily R\Downloads\app (1)\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.exe
+C:\Users\Pily R\Downloads\app (1)\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.pdb
+C:\Users\Pily R\Downloads\app (1)\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.exe.config
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.csprojAssemblyReference.cache
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.Buscar.resources
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEdad.resources
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEstado.resources
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.Form1.resources
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.guardarpersona.resources
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.modificar_usuarios.resources
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.Properties.Resources.resources
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.recomendacion.resources
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.GenerateResource.cache
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.exe
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.pdb
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\bin\Debug\APPTabla.exe.config
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\bin\Debug\APPTabla.exe
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\bin\Debug\APPTabla.pdb
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.exe
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\bin\Debug\adultos.dll
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\bin\Debug\jovenes.dll
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\bin\Debug\WfNinios.exe
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.pdb
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.exe.config
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\bin\Debug\adultos.pdb
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\bin\Debug\adultos.dll.config
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\bin\Debug\jovenes.pdb
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\bin\Debug\jovenes.dll.config
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\bin\Debug\WfNinios.pdb
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\bin\Debug\WfNinios.exe.config
+C:\Users\Santiago\Downloads\app (2)\app (1)\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CopyComplete
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\bin\Debug\APPTabla.exe.config
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\bin\Debug\APPTabla.exe
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\bin\Debug\APPTabla.pdb
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.exe
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\bin\Debug\adultos.dll
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\bin\Debug\jovenes.dll
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\bin\Debug\WfNinios.exe
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.pdb
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.exe.config
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\bin\Debug\adultos.pdb
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\bin\Debug\adultos.dll.config
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\bin\Debug\jovenes.pdb
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\bin\Debug\jovenes.dll.config
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\bin\Debug\WfNinios.pdb
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\bin\Debug\WfNinios.exe.config
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\obj\Debug\APPTabla.Buscar.resources
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEdad.resources
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEstado.resources
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\obj\Debug\APPTabla.Form1.resources
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\obj\Debug\APPTabla.guardarpersona.resources
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\obj\Debug\APPTabla.modificar_usuarios.resources
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\obj\Debug\APPTabla.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\obj\Debug\APPTabla.recomendacion.resources
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CopyComplete
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\obj\Debug\APPTabla.exe
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\obj\Debug\APPTabla.pdb
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\bin\Debug\APPTabla.exe.config
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\bin\Debug\APPTabla.exe
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\bin\Debug\APPTabla.pdb
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.exe
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\bin\Debug\adultos.dll
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\bin\Debug\jovenes.dll
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\bin\Debug\WfNinios.exe
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.pdb
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.exe.config
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\bin\Debug\adultos.pdb
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\bin\Debug\adultos.dll.config
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\bin\Debug\jovenes.pdb
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\bin\Debug\jovenes.dll.config
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\bin\Debug\WfNinios.pdb
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\bin\Debug\WfNinios.exe.config
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.csprojAssemblyReference.cache
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.Buscar.resources
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEdad.resources
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEstado.resources
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.Form1.resources
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.guardarpersona.resources
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.modificar_usuarios.resources
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.Properties.Resources.resources
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.recomendacion.resources
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.GenerateResource.cache
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CopyComplete
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.exe
+C:\Users\Santiago\Downloads\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.pdb
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\bin\Debug\APPTabla.exe.config
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\bin\Debug\APPTabla.exe
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\bin\Debug\APPTabla.pdb
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.exe
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\bin\Debug\adultos.dll
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\bin\Debug\jovenes.dll
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\bin\Debug\WfNinios.exe
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.pdb
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.exe.config
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\bin\Debug\adultos.pdb
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\bin\Debug\adultos.dll.config
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\bin\Debug\jovenes.pdb
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\bin\Debug\jovenes.dll.config
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\bin\Debug\WfNinios.pdb
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\bin\Debug\WfNinios.exe.config
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.csprojAssemblyReference.cache
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.Buscar.resources
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEdad.resources
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEstado.resources
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.Form1.resources
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.guardarpersona.resources
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.modificar_usuarios.resources
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.Properties.Resources.resources
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.recomendacion.resources
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.GenerateResource.cache
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CoreCompileInputs.cache
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CopyComplete
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.exe
+C:\Users\My Notebook\Desktop\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.pdb
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\bin\Debug\APPTabla.exe.config
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\bin\Debug\APPTabla.exe
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\bin\Debug\APPTabla.pdb
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.exe
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\bin\Debug\adultos.dll
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\bin\Debug\jovenes.dll
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\bin\Debug\WfNinios.exe
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.pdb
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.exe.config
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\bin\Debug\adultos.pdb
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\bin\Debug\adultos.dll.config
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\bin\Debug\jovenes.pdb
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\bin\Debug\jovenes.dll.config
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\bin\Debug\WfNinios.pdb
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\bin\Debug\WfNinios.exe.config
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.csprojAssemblyReference.cache
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.Buscar.resources
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEdad.resources
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEstado.resources
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.Form1.resources
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.guardarpersona.resources
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.modificar_usuarios.resources
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.Properties.Resources.resources
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.recomendacion.resources
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.GenerateResource.cache
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CopyComplete
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.exe
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.pdb
+C:\Users\Santiago\Pictures\Saved Pictures\app (1)\app\app\APPTabla\APPTabla\bin\Debug\Guna.UI.dll
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\bin\Debug\APPTabla.exe.config
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\bin\Debug\APPTabla.exe
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\bin\Debug\APPTabla.pdb
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.exe
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\bin\Debug\adultos.dll
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\bin\Debug\jovenes.dll
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\bin\Debug\WfNinios.exe
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\bin\Debug\Guna.UI.dll
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.pdb
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.exe.config
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\bin\Debug\adultos.pdb
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\bin\Debug\adultos.dll.config
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\bin\Debug\jovenes.pdb
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\bin\Debug\jovenes.dll.config
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\bin\Debug\WfNinios.pdb
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\bin\Debug\WfNinios.exe.config
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.Buscar.resources
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEdad.resources
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEstado.resources
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.Form1.resources
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.guardarpersona.resources
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.modificar_usuarios.resources
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.Properties.Resources.resources
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.recomendacion.resources
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CopyComplete
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.exe
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.pdb
+C:\Users\PC\Downloads\Telegram Desktop\FINAL\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.FormInicio.resources
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\bin\Debug\APPTabla.exe.config
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\bin\Debug\APPTabla.exe
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\bin\Debug\APPTabla.pdb
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.exe
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\bin\Debug\adultos.dll
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\bin\Debug\jovenes.dll
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\bin\Debug\WfNinios.exe
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\bin\Debug\Guna.UI.dll
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.pdb
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.exe.config
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\bin\Debug\adultos.pdb
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\bin\Debug\adultos.dll.config
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\bin\Debug\jovenes.pdb
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\bin\Debug\jovenes.dll.config
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\bin\Debug\WfNinios.pdb
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\bin\Debug\WfNinios.exe.config
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.csprojAssemblyReference.cache
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.Buscar.resources
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEdad.resources
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEstado.resources
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.Form1.resources
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.FormInicio.resources
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.guardarpersona.resources
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.modificar_usuarios.resources
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.Properties.Resources.resources
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.recomendacion.resources
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.GenerateResource.cache
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CoreCompileInputs.cache
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CopyComplete
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.exe
+C:\Users\My Notebook\Documents\ejemplos\app (1)\app\app\APPTabla\APPTabla\obj\Debug\APPTabla.pdb
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\bin\Debug\APPTabla.exe.config
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\bin\Debug\APPTabla.exe
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\bin\Debug\APPTabla.pdb
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.exe
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\bin\Debug\adultos.dll
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\bin\Debug\jovenes.dll
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\bin\Debug\WfNinios.exe
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\bin\Debug\Guna.UI.dll
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.pdb
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.exe.config
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\bin\Debug\adultos.pdb
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\bin\Debug\adultos.dll.config
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\bin\Debug\jovenes.pdb
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\bin\Debug\jovenes.dll.config
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\bin\Debug\WfNinios.pdb
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\bin\Debug\WfNinios.exe.config
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\obj\Debug\APPTabla.csprojAssemblyReference.cache
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\obj\Debug\APPTabla.Buscar.resources
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEdad.resources
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEstado.resources
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\obj\Debug\APPTabla.Form1.resources
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\obj\Debug\APPTabla.FormInicio.resources
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\obj\Debug\APPTabla.guardarpersona.resources
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\obj\Debug\APPTabla.modificar_usuarios.resources
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\obj\Debug\APPTabla.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\obj\Debug\APPTabla.recomendacion.resources
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CopyComplete
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\obj\Debug\APPTabla.exe
+C:\Users\USUARIO\Downloads\Nueva carpeta\app\APPTabla\APPTabla\obj\Debug\APPTabla.pdb
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\bin\Debug\Guna.UI.dll
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\app\APPTabla\APPTabla\obj\Debug\APPTabla.FormInicio.resources
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\bin\Debug\APPTabla.exe.config
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\bin\Debug\APPTabla.exe
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\bin\Debug\APPTabla.pdb
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.exe
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\bin\Debug\adultos.dll
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\bin\Debug\jovenes.dll
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\bin\Debug\WfNinios.exe
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\bin\Debug\Guna.UI.dll
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.pdb
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.exe.config
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\bin\Debug\adultos.pdb
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\bin\Debug\adultos.dll.config
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\bin\Debug\jovenes.pdb
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\bin\Debug\jovenes.dll.config
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\bin\Debug\WfNinios.pdb
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\bin\Debug\WfNinios.exe.config
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\obj\Debug\APPTabla.csprojAssemblyReference.cache
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\obj\Debug\APPTabla.Buscar.resources
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEdad.resources
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEstado.resources
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\obj\Debug\APPTabla.Form1.resources
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\obj\Debug\APPTabla.FormInicio.resources
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\obj\Debug\APPTabla.guardarpersona.resources
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\obj\Debug\APPTabla.modificar_usuarios.resources
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\obj\Debug\APPTabla.Properties.Resources.resources
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\obj\Debug\APPTabla.recomendacion.resources
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.GenerateResource.cache
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CoreCompileInputs.cache
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CopyComplete
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\obj\Debug\APPTabla.exe
+C:\Users\My Notebook\Downloads\MR\app\APPTabla\APPTabla\obj\Debug\APPTabla.pdb
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\bin\Debug\APPTabla.exe.config
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\bin\Debug\APPTabla.exe
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\bin\Debug\APPTabla.pdb
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.exe
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\bin\Debug\adultos.dll
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\bin\Debug\jovenes.dll
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\bin\Debug\WfNinios.exe
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\bin\Debug\Guna.UI.dll
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.pdb
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.exe.config
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\bin\Debug\adultos.pdb
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\bin\Debug\adultos.dll.config
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\bin\Debug\jovenes.pdb
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\bin\Debug\jovenes.dll.config
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\bin\Debug\WfNinios.pdb
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\bin\Debug\WfNinios.exe.config
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\obj\Debug\APPTabla.Buscar.resources
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEdad.resources
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEstado.resources
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\obj\Debug\APPTabla.Form1.resources
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\obj\Debug\APPTabla.FormInicio.resources
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\obj\Debug\APPTabla.guardarpersona.resources
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\obj\Debug\APPTabla.modificar_usuarios.resources
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\obj\Debug\APPTabla.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\obj\Debug\APPTabla.recomendacion.resources
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CopyComplete
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\obj\Debug\APPTabla.exe
+C:\Users\USUARIO\Downloads\Proyectos C#\Proyecto Tabla Alimenticia\app\APPTabla\APPTabla\obj\Debug\APPTabla.pdb
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\obj\Debug\APPTabla.csprojAssemblyReference.cache
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\obj\Debug\APPTabla.exe
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\obj\Debug\APPTabla.pdb
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\APPTabla.exe.config
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\APPTabla.exe
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\APPTabla.pdb
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.exe
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\adultos.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\jovenes.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\WfNinios.exe
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\MySql.Data.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\Guna.UI.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\Google.Protobuf.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\ZstdNet.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\System.Memory.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\System.Buffers.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.pdb
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\AdultoMayor.exe.config
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\adultos.pdb
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\adultos.dll.config
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\jovenes.pdb
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\jovenes.dll.config
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\WfNinios.pdb
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\WfNinios.exe.config
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\MySql.Data.xml
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\Google.Protobuf.pdb
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\Google.Protobuf.xml
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\System.Memory.xml
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\System.Buffers.xml
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\obj\Debug\APPTabla.Buscar.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEdad.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\obj\Debug\APPTabla.buscarEstado.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\obj\Debug\APPTabla.Form1.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\obj\Debug\APPTabla.FormInicio.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\obj\Debug\APPTabla.guardarpersona.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\obj\Debug\APPTabla.modificar_usuarios.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\obj\Debug\APPTabla.Properties.Resources.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\obj\Debug\APPTabla.recomendacion.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.GenerateResource.cache
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CoreCompileInputs.cache
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\app\APPTabla\APPTabla\obj\Debug\APPTabla.csproj.CopyComplete
